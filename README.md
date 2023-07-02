@@ -36,3 +36,5 @@ and content images. The loss functions were then used to perform gradient descen
 
 ### Results
 ![alt text](/gen_images/kevin-card.png?raw=true)
+![alt text](/gen_images/starrynight2.png?raw=true)
+![alt text](/gen_images/screamhyrax.png?raw=true)
