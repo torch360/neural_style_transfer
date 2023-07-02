@@ -35,4 +35,4 @@ the model's weights. The loss function was calculated during each epoch, and inf
 and content images. The loss functions were then used to perform gradient descent on the generated image, using the Adam optimizer.
 
 ### Results
-![alt text](https://github.com/torch360/neural_style_transfer/gen_images/kevin-card.png?raw=true)
+![alt text](/gen_images/kevin-card.png?raw=true)
